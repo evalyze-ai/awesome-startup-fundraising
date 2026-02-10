@@ -1,3 +1,8 @@
+---
+name: General Issue
+about: Suggest a resource, report a problem, or propose a category
+---
+
 ## Type of issue
 
 - [ ] Suggest a new resource
