@@ -4,6 +4,22 @@ Finding the right investors and telling a clear story is hard for both founders 
 
 This list collects tools for evaluating startups, improving pitch materials, and managing end-to-end fundraising workflows.
 
+## Contents
+
+- [**Awesome Startup Fundraising Tools**](#awesome-startup-fundraising-tools)
+  - [Contents](#contents)
+  - [**Pitch Deck Review \& Scoring**](#pitch-deck-review--scoring)
+  - [**Investor Discovery \& Matching**](#investor-discovery--matching)
+  - [**CRM \& Dealflow Management**](#crm--dealflow-management)
+  - [**Data Rooms \& Document Management**](#data-rooms--document-management)
+  - [**Email Outreach \& Sequencing**](#email-outreach--sequencing)
+  - [**Founder Education \& Knowledge Bases**](#founder-education--knowledge-bases)
+  - [**VC / Angel Networks \& Platforms**](#vc--angel-networks--platforms)
+  - [**Top Global VCs 2025**](#top-global-vcs-2025)
+  - [**10 Global Angel Investors**](#10-global-angel-investors)
+  - [**Contributing**](#contributing)
+  - [**Disclaimer**](#disclaimer)
+
 ---
 
 ## **Pitch Deck Review & Scoring**
