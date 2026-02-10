@@ -26,7 +26,7 @@ This list collects tools for evaluating startups, improving pitch materials, and
 
 Tools that help you build, structure, or analyse pitch decks.
 
-- [**Evalyze.ai**](http://Evalyze.ai) → AI-assisted deck and startup evaluation with investor-readiness scores, risk flags, and concrete suggestions before outreach.
+- [**Evalyze.ai**](https://evalyze.ai/?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources) → AI-assisted deck and startup evaluation with investor-readiness scores, risk flags, and concrete suggestions before outreach.
 
 - [**Slidebean**](https://slidebean.com/) → Pitch deck design and analytics platform with templates and investor-focused guidance.
 
@@ -204,6 +204,8 @@ Spotted something missing or outdated?
 
 ## **Disclaimer**
 
-This list is for informational purposes only and is not investment, legal, or financial advice.
+> This list is for informational purposes only and is not investment, legal, or financial advice.
 
-Always do your own diligence before choosing tools or making funding decisions.
+> This list is maintained by the team at Evalyze. Evalyze is included using the same curation criteria as other tools.
+
+> Always do your own diligence before choosing tools or making funding decisions.
