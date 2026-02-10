@@ -52,7 +52,7 @@ Platforms for finding, qualifying, and prioritising investors.
 
 - [**PitchBook**](https://pitchbook.com/) → Private-markets data platform covering VC, PE, and M\&A transactions.
 
-- [**Evalyze.ai**](http://Evalyze.ai) → Investor discovery and matching based on round, sector, geography, and thesis, tied to your deck score.
+- [**Evalyze.ai**](https://evalyze.ai/?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources) → Investor discovery and matching based on round, sector, geography, and thesis, tied to your deck score.
 
 - [**Dealroom**](https://dealroom.net/) → Startup and VC database, widely used for ecosystem mapping (especially strong in Europe).
 
