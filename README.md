@@ -26,6 +26,8 @@ This list collects tools for evaluating startups, improving pitch materials, and
 
 Tools that help you build, structure, or analyse pitch decks.
 
+- [**DDScore**](https://www.ddscore.ai/for-founder/) → Structured first-pass review of private-company materials with a 0–100 score and report across 12 dimensions.
+
 - [**Evalyze.ai**](https://evalyze.ai/?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources) → AI-assisted deck and startup evaluation with investor-readiness scores, risk flags, and concrete suggestions before outreach.
 
 - [**Slidebean**](https://slidebean.com/) → Pitch deck design and analytics platform with templates and investor-focused guidance.
