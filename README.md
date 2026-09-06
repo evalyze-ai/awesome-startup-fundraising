@@ -46,6 +46,8 @@ Platforms for finding, qualifying, and prioritising investors.
 
 - [**OpenVC**](https://www.openvc.app/) → Founder-friendly investor directory with filters for stage, geography, and thesis, plus open submission format.
 
+- [**deep-funding**](https://github.com/pengpengyi92/deep-funding) → Open-source, evidence-aware agent-to-agent funding matchmaking: company and capital agents meet first through bilateral screening, audit and an explainable match trace, with a human handoff queue (live demo: https://pengyi-deep-funding.pengpengyi92.workers.dev).
+
 - [**Signal (NFX)**](https://signal.nfx.com/) → Free tool for mapping warm intros and relationships to investors across your extended network.
 
 - [**Crunchbase**](https://www.crunchbase.com/) → Database of companies, investors, and funding rounds for market and investor research.
