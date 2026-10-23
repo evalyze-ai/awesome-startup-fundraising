@@ -48,6 +48,8 @@ Platforms for finding, qualifying, and prioritising investors.
 
 - [**Signal (NFX)**](https://signal.nfx.com/) → Free tool for mapping warm intros and relationships to investors across your extended network.
 
+- [**Capy**](https://ai.capy-ai.workers.dev/space) → Verified directory of 924 investors across the US, Hengqin–Macau GBA, Japan, China, Hong Kong & Taiwan and Europe, with 1,198 source-linked deals and an open dataset.
+
 - [**Crunchbase**](https://www.crunchbase.com/) → Database of companies, investors, and funding rounds for market and investor research.
 
 - [**PitchBook**](https://pitchbook.com/) → Private-markets data platform covering VC, PE, and M\&A transactions.
