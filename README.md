@@ -74,6 +74,7 @@ Platforms for finding, qualifying, and prioritising investors.
 - [**Evalyze Investor Matching**](https://www.evalyze.ai/investor-matching?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources) → Matches founders with VCs and angels by stage, sector, location, check size, and investment history.
 
 - [**OpenVC**](https://www.openvc.app/) → Free investor directory with filters for stage, geography, and thesis, plus an open submission format.
+- [**VentureDex**](https://venturedex.co/) → Curated, source-linked startup research with funding signals and investor context.
 
 - [**PitchBook**](https://pitchbook.com/) → Private-markets data platform covering VC, PE, and M&A transactions.
 
