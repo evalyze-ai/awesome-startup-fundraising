@@ -80,6 +80,7 @@ Platforms for finding, qualifying, and prioritising investors.
 - [**Signal (NFX)**](https://signal.nfx.com/) → Free investor network for finding investors by stage and sector and mapping warm intro paths.
 
 - [**Tracxn**](https://tracxn.com/) → Private company database tracking startups, funding rounds, investors, and sectors, with a free Lite plan.
+- [**US Pre-Seed Investors: Energy, Deeptech, Neuro (open dataset)**](https://preseed-investors.vercel.app/) → 152 US pre-seed funds with stage, check size and a public source on every row; CC BY 4.0.
 
 - [**vcfirmsdirectory.com**](https://vcfirmsdirectory.com/) → Free-to-browse directory of VC firms in 65 countries, built from public registers and firm websites.
 
