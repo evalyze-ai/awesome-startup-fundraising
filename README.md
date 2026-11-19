@@ -47,6 +47,8 @@ Tools that help you build, structure, or analyse pitch decks.
 
 - [**Plus AI**](https://plusai.com/) → AI assistant for creating and editing presentations in PowerPoint and Google Slides.
 
+- [**RaiseRoom**](https://www.raise-room.com/) → Rates existing pitch decks chapter by chapter and helps founders assess investor readiness before outreach.
+
 - [**Slidebean**](https://slidebean.com/) → Pitch deck design and analytics platform with templates and investor-focused guidance.
 
 **Guides:**
