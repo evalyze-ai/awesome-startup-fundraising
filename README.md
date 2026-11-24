@@ -278,6 +278,9 @@ Grants, tax credits, and government programs that fund startups without taking e
 - [12 Small Business Grants in Europe (Evalyze)](https://www.evalyze.ai/blog/12-small-business-grants-in-europe?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources)
 
 - [9 Alternatives to Venture Capital for Startups (Evalyze)](https://www.evalyze.ai/blog/alternatives-to-venture-capital?utm_source=github&utm_medium=awesome_list&utm_campaign=startup_fundraising_resources)
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
 
 ---
 
